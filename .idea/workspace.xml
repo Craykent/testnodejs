@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae9373e-fa4e-4148-acab-e58169489d5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trainingday2/global_object/test_http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingday3/npm-demo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingday3/npm-demo/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/.idea/event.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/.idea/event.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/event/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/event/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/.idea/global_object.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/.idea/global_object.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/test_filesystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/test_filesystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/test_os.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/test_os.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_node/global_object/test_path.js" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday2/global_object/test_path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingday3/npm-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday3/npm-demo/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eclIBAFV6vHZDZQtS7bYELfiXT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,6 +50,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\testnodejs\trainingday3\npm-demo" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -78,12 +68,15 @@
       <workItem from="1594628680589" duration="3529000" />
       <workItem from="1594707234186" duration="157000" />
       <workItem from="1594719292127" duration="374000" />
-      <workItem from="1594793135010" duration="2068000" />
+      <workItem from="1594793135010" duration="3925000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1594719606291">
