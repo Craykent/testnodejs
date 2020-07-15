@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae9373e-fa4e-4148-acab-e58169489d5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trainingday3/npm-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingday3/npm-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/trainingday3/npm-demo/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1594628680589" duration="3529000" />
       <workItem from="1594707234186" duration="157000" />
       <workItem from="1594719292127" duration="374000" />
-      <workItem from="1594793135010" duration="5236000" />
+      <workItem from="1594793135010" duration="5811000" />
     </task>
     <servers />
   </component>
